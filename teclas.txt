@@ -1,4 +1,30 @@
 soy un enfermito :3
 sapito :v
 solano
+<<<<<<< HEAD
 JUDAS
+=======
+
+
+hola mundo
+
+
+
+
+no paso nada
+
+
+tienen que poner pull primero
+
+
+gggg
+
+
+
+
+hola amigos
+
+
+
+hola gente
+>>>>>>> 065e18064dce301aa5e5b977ef4c6d11effba1f1
