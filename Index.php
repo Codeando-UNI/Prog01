@@ -5,6 +5,11 @@
     <title>Document</title>
 </head>
 <body>
+
+<?php
+include_one ("/Include/menu.php");
+?>
+
     <h1 style="font-size: 50px; color: blue "> <center>Regìstrese </center></h1>
 
 
@@ -17,7 +22,11 @@
   <h3 class="m-t-3"><span class="step">3</span> Mensaje:  <input type="text" name="Mensaje" value="" /></h3>
   <input type="submit" value="Enviar" />
 
-</form>
+  </form>
+
+ <?php
+include_one ("/Include/footer.php");
+?>
 
 </body>
 </html>
