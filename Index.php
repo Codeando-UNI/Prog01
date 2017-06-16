@@ -11,9 +11,8 @@
 include_one ("/Include/menu.php");
 ?>
 
-    <h1 style="font-size: 50px; color: blue "> <center>Regìstrese </center></h1>
-
-
+  <h1 style="font-size: 50px; color: blue "> <center>Regìstrese </center></h1>
+  
   <form action="http://www.youtube.com" method="post">
   
   <h3 class="m-t-3"><span class="step">1</span> Nombre:  <input type="text" name="nombre" value="" /></h3>
