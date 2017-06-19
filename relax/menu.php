@@ -8,10 +8,10 @@
 							<li>
 								<a href="#">Nosotros</a>
 								<ul>
-									<li><a href="left-sidebar.html">¿Quiénes somos?</a></li>
-									<li><a href="right-sidebar.html">Galería</a></li>
+									<li><a href="quienes-somos.php">¿Quiénes somos?</a></li>
+									<li><a href="galeria.php">Galería</a></li>
 									<li>
-										<a href="#">Otros Proyectos</a>
+										<a href="proyectos.php">Otros Proyectos</a>
 										<ul>
 											<li><a href="#">Option 1</a></li>
 											<li><a href="#">Option 2</a></li>
