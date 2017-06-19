@@ -8,11 +8,10 @@
 <body>
 
 <?php
-include_one ("/Include/menu.php");
+include_once ("menu.html");
 ?>
 
-    <h1 style="font-size: 50px; color: blue "> <center>Regìstrese </center></h1>
-
+  <h1 style="font-size: 50px; color: blue "> <center>Regìstrese </center></h1>
 
   <form action="http://www.youtube.com" method="post">
   
@@ -26,7 +25,7 @@ include_one ("/Include/menu.php");
   </form>
 
  <?php
-include_one ("/Include/footer.php");
+include_once ("footer.php");
 ?>
 
 </body>
