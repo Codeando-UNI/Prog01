@@ -27,8 +27,8 @@
 					<div class="content">
 						<header>
 							<h2>El futuro esta en la innovación</h2>
-							<p>And there are no hoverboards or flying cars.<br />
-							Just apps. Lots of mother flipping apps.</p>
+							<p>“No he fracasado. He encontrado 10 mil formas que no funcionan”</p>
+							<p>Thomas Edison</p>
 						</header>
 						<span class="image"><img src="images/img01.jpg" alt="" /></span>
 					</div>
@@ -37,22 +37,18 @@
 
 			<!-- One -->
 				<section id="one" class="spotlight style1 bottom">
-					<span class="image fit main"><img src="images/pic02.jpg" alt="" /></span>
+					<span class="image fit main"><img src="images/img03.jpg" alt="" /></span>
 					<div class="content">
 						<div class="container">
 							<div class="row">
 								<div class="4u 12u$(medium)">
 									<header>
-										<h2>Odio faucibus ipsum integer consequat</h2>
-										<p>Nascetur eu nibh vestibulum amet gravida nascetur praesent</p>
+										<h2>Desarrollo de sistemas inteligente de iluminacion</h2>
+										<p>SmarthLight</p>
 									</header>
 								</div>
 								<div class="4u 12u$(medium)">
-									<p>Feugiat accumsan lorem eu ac lorem amet sed accumsan donec.
-									Blandit orci porttitor semper. Arcu phasellus tortor enim mi
-									nisi praesent dolor adipiscing. Integer mi sed nascetur cep aliquet
-									augue varius tempus lobortis porttitor accumsan consequat
-									adipiscing lorem dolor.</p>
+									<p>SmarthLight es un proyecto de innovacion para el control de los sistemas de iluminacion con el cual se busca reducir eficientemente el gasto energético.</p>
 								</div>
 								<div class="4u$ 12u$(medium)">
 									<p>Morbi enim nascetur et placerat lorem sed iaculis neque ante

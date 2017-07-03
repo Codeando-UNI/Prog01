@@ -1,6 +1,4 @@
-		<div id="page-wrapper">
-			<!-- Header -->
-				<header id="header">
+
 					<h1 id="logo"><a href="index.html">SmarthLight</a></h1>
 					<nav id="nav">
 						<ul>
@@ -25,5 +23,3 @@
 							<li><a href="#" class="button special">Iniciar sesión</a></li>
 						</ul>
 					</nav>
-				</header>
-		</div>
